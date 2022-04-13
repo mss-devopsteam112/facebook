@@ -2,3 +2,4 @@ updated by  malathi
 this is user text file by mahesh
 
 this was an updated one
+so once again this file is accessed from git pull today 
